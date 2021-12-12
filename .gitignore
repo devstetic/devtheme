@@ -1,0 +1,4 @@
+backend/app/themes/theme/node_modules
+wordpress_dbase.sql
+composer.lock
+sql
